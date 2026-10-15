@@ -1,3 +1,5 @@
+# SPDX-FileCopyrightText: 2026 AgentLeak contributors
+# SPDX-License-Identifier: MIT
 """Spanish mobile vs Canadian SIN false positive (issue #4).
 
 A Spanish mobile national part is 9 digits in 3-3-3 groups ("612 345 678"),
